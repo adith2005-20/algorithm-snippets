@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+
+
 using namespace std;
 
 void rabinKarp(string text, string pattern, int prime = 101) {
